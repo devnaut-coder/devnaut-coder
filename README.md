@@ -1,6 +1,7 @@
-### 👨‍💻 Olá, Eu sou o Carlos Magno 👋 
+### 👨‍💻 Olá, Eu sou o Carlos Magno 👋
 
 ## Sobre mim
+
 🚀 Desenvolvedor Fullstack | Entusiasta do MERN Stack
 
 - 🔭 Atualmente trabalhando no meu próprio navegador com IA e Web3.
@@ -21,12 +22,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Conecte-se comigo
+
 - [LinkedIn](https://www.linkedin.com/in/seu-perfil)
 - [Twitter](https://twitter.com/seu-perfil)
 - [Portfólio](https://seu-portfolio.com)
 
 ## Estatísticas do GitHub
+
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=devnaut-coder&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnaut-codera)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnaut-coder)](https://github.com/anuraghazra/github-readme-stats)
