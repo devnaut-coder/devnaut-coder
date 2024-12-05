@@ -2,7 +2,7 @@
 
 ## 🔥 Sobre mim
 
-🚀 Fullstack Developer | MERN Stack Enthusiast | Web3 & dApps | IA
+🚀 Fullstack Developer | MERN Stack Enthusiast  | AI Generative
 
 - 📚 Em constante aperfeiçoamento no desenvolvimento web, focando em soluções inovadoras.
 - 🔐 Explorando tecnologias emergentes para fortalecer a privacidade e segurança online.
