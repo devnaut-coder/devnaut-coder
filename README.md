@@ -2,11 +2,11 @@
 
 ## 🔥 Sobre mim
 
-🚀 Fullstack Developer | MERN Stack Enthusiast  | AI Generative
+🚀 Fullstack Developer | MERN Stack Enthusiast  | AI Generative | AI Code
 
-- 📚 Em constante aperfeiçoamento no desenvolvimento web, focando em soluções inovadoras.
+- 📚 Em constante aperfeiçoamento no desenvolvimento web, focando em soluções inovadoras com IA.
 - 🔐 Explorando tecnologias emergentes para fortalecer a privacidade e segurança online.
-- 🚀 Comprometido com a criação de uma web de próxima geração.
+- 🚀 Comprometido com a criação de uma web de próxima geração com ajuda da IA Generativa.
 - ⚡ Buscando Transformar ideias criativas em projetos de alto impacto e valor!
 
 ## Tecnologias que estou aprendendo 🚀
