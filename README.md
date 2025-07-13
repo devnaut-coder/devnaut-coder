@@ -1,69 +1,85 @@
-<!-- Banner animado opcional -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FACC&vCenter=true&width=440&lines=console.log('Hello%2C+dev+world!');+👨‍💻" alt="Typing SVG" />
+<!-- Banner animado -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FACC&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Dev+Productivity+via+LLMs+%7C+Fullstack+Developer+%7C+Open+Source+Lover" alt="Typing SVG" />
 
-# 👋 Olá, seja bem-vindo ao meu espaço no GitHub!
+# 👋 Seja bem-vindo ao meu universo Dev + IA!
 
-## 🔥 Sobre mim
+## 🧠 Sobre mim
 
-🚀 Desenvolvedor Fullstack | MERN Stack | IA Generativa | Tech Explorer  
-💡 Amante de soluções inovadoras que unem código, criatividade e inteligência artificial.  
-🌍 Acredito em construir produtos que impactem positivamente a web do futuro.  
-
-- 🧠 Em constante aprendizado e experimentação com ferramentas modernas.
-- 🛡️ Entusiasta de privacidade, open source e boas práticas.
-- 🎯 Transformando ideias criativas em soluções reais com impacto.
+🎓 Engenheiro de Inteligência Artificial & Desenvolvedor Fullstack  
+🚀 Criador de soluções que combinam código, automação e inteligência.  
+🛠️ Especializado em arquitetura de sistemas inteligentes, pipelines com LLMs e integração de ferramentas de IA na produtividade dev.
 
 ---
 
-## ⚒️ Tech Stack
+## 🚀 O que eu faço?
 
-### 🚀 Principais Tecnologias
+- 🔧 **Criação de fluxos inteligentes com LLMs (OpenAI, Hugging Face, Trae AI, Lovable AI)**
+- 🤖 **Desenvolvimento de Agentes IA personalizados para codificação e DevOps**
+- 💡 **Aplicações Web Fullstack com IA nativa: IA-first Design**
+- 🧩 **Integração de IA em IDEs e Workflows: Copilot, Codeium, Tabnine**
+- 🧠 **Treinamento, ajuste fino e deploy de modelos via MLOps**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+---
+
+## 💻 Ferramentas de IA para Codificação
+
+![Lovable AI](https://img.shields.io/badge/Lovable_AI-FFB3C1?style=flat-square&logo=love&logoColor=black)
+![Trae AI](https://img.shields.io/badge/Trae_AI-FFDB58?style=flat-square&logo=brain&logoColor=black)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=github&logoColor=white)
+![Codeium](https://img.shields.io/badge/Codeium-3B82F6?style=flat-square&logo=code&logoColor=white)
+![Tabnine](https://img.shields.io/badge/Tabnine-6C33FF?style=flat-square&logo=tabnine&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink)
+
+🧠 *Uso essas ferramentas para acelerar tarefas, gerar código eficiente, revisar lógica, documentar, e automatizar fluxos.*
+
+---
+
+## 🔧 Tech Stack
+
+### 🌐 Fullstack + Cloud
+
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-### 🧠 IA & Dev Tools
+### ⚙️ Backend & IA
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai)
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-F9A03C?style=flat-square&logo=huggingface)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-F9A03C?style=flat-square&logo=huggingface)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai)
+![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=chainlink)
 
 ---
 
-## 🧪 Aprendendo & Experimentando
+## 🧪 Explorando e criando
 
-Atualmente focado em:
-- 🔍 Backend com Supabase/PostgreSQL
-- 🧬 Deploy serverless com Vercel
-- ⚛️ SSR & SSG com Next.js
-- 🧠 Integração com LLMs e ferramentas generativas
-- 🎨 Design funcional com Tailwind CSS
+- 🧠 Agentes IA para DevOps e Code Review
+- 💡 Plugins IA para automação de IDEs
+- 🔗 Integração de Supabase com pipelines LLMs
+- 🛠️ Ferramentas no-code/low-code com IA nativa
 
 ---
 
-## 🌐 Vamos nos conectar?
+## 🌐 Onde me encontrar?
 
 [![Instagram](https://img.shields.io/badge/@seu_usuario-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario)  
-[![WhatsApp](https://img.shields.io/badge/Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://call.whatsapp.com/voice/+5527999990362)  
-[![Portfólio](https://img.shields.io/badge/Meu_Portfólio-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/devnautcoder)
+[![WhatsApp](https://img.shields.io/badge/Chamar_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://call.whatsapp.com/voice/+5527999990362)  
+[![Linktree](https://img.shields.io/badge/Meus_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/devnautcoder)
 
 ---
 
-> 💬 *"Code is poetry. Let's build the future together."*
+## 📊 GitHub Stats
 
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=devnaut-coder&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnaut-coder&layout=compact&theme=tokyonight)
 
-## Estatísticas do GitHub
+---
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=devnaut-coder&show_icons=true&theme=synthwave)
+> 🧩 *“IA não vai substituir você. Mas um dev usando IA... pode.”*
+
