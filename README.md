@@ -1,39 +1,68 @@
-### 👨‍💻 Olá! Que bom ver você. 👋
+<!-- Banner animado opcional -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FACC&vCenter=true&width=440&lines=console.log('Hello%2C+dev+world!');+👨‍💻" alt="Typing SVG" />
+
+# 👋 Olá, seja bem-vindo ao meu espaço no GitHub!
 
 ## 🔥 Sobre mim
 
-🚀 Fullstack Developer | MERN Stack Enthusiast  | AI Generative | AI Code
+🚀 Desenvolvedor Fullstack | MERN Stack | IA Generativa | Tech Explorer  
+💡 Amante de soluções inovadoras que unem código, criatividade e inteligência artificial.  
+🌍 Acredito em construir produtos que impactem positivamente a web do futuro.  
 
-- 📚 Em constante aperfeiçoamento no desenvolvimento web, focando em soluções inovadoras com IA.
-- 🔐 Explorando tecnologias emergentes para fortalecer a privacidade e segurança online.
-- 🚀 Comprometido com a criação de uma web de próxima geração com ajuda da IA Generativa.
-- ⚡ Buscando Transformar ideias criativas em projetos de alto impacto e valor!
+- 🧠 Em constante aprendizado e experimentação com ferramentas modernas.
+- 🛡️ Entusiasta de privacidade, open source e boas práticas.
+- 🎯 Transformando ideias criativas em soluções reais com impacto.
 
-## Tecnologias que estou aprendendo 🚀
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+## ⚒️ Tech Stack
 
-## Conecte-se comigo
+### 🚀 Principais Tecnologias
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://call.whatsapp.com/voice/+552799999-0362)
-[![Portfólio](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/devnautcoder)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+### 🧠 IA & Dev Tools
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-F9A03C?style=flat-square&logo=huggingface)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
+
+---
+
+## 🧪 Aprendendo & Experimentando
+
+Atualmente focado em:
+- 🔍 Backend com Supabase/PostgreSQL
+- 🧬 Deploy serverless com Vercel
+- ⚛️ SSR & SSG com Next.js
+- 🧠 Integração com LLMs e ferramentas generativas
+- 🎨 Design funcional com Tailwind CSS
+
+---
+
+## 🌐 Vamos nos conectar?
+
+[![Instagram](https://img.shields.io/badge/@seu_usuario-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario)  
+[![WhatsApp](https://img.shields.io/badge/Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://call.whatsapp.com/voice/+5527999990362)  
+[![Portfólio](https://img.shields.io/badge/Meu_Portfólio-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/devnautcoder)
+
+---
+
+> 💬 *"Code is poetry. Let's build the future together."*
+
 
 ## Estatísticas do GitHub
 
