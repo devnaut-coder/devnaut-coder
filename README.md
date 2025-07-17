@@ -13,7 +13,7 @@
 
 ## 🚀 O que eu faço?
 
-- 🔧 *Criação de fluxos inteligentes com LLMs (ChatGPT,DeepSeek, Hugging Face, Trae AI, Lovable AI)*
+- 🔧 *Criação de fluxos inteligentes com LLMs (ChatGPT, DeepSeek, Hugging Face, Trae AI, Lovable AI)*
 - 🤖 *Desenvolvimento de Agentes de IA personalizados para codificação e DevOps*
 - 💡 *Aplicações Web Fullstack com IA nativa: IA-first Design*
 - 🧩 *Integração de IA em IDEs e Workflows: Copilot, Codeium, Tabnine*
