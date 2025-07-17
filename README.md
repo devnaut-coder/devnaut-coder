@@ -5,8 +5,8 @@
 
 ## 🧠 Sobre mim
 
-🎓 Engenheiro de Inteligência Artificial & Arquiteto de Soluções. 
-🚀 Criador de soluções que combinam código, automação e inteligência.  
+🎓 Engenheiro de Inteligência Artificial & Arquiteto de Sistemas LLMs. 
+🚀 Criador de soluções que combinam código, automação e modelos inteligentes.  
 🛠️ Especializado em arquitetura de sistemas inteligentes, pipelines com LLMs e integração de ferramentas de IA na produtividade dev.
 
 ---
