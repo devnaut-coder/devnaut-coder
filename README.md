@@ -5,7 +5,7 @@
 
 ## 🧠 Sobre mim
 
-🎓 Engenheiro de Inteligência Artificial & Desenvolvedor Fullstack  
+🎓 Engenheiro de Inteligência Artificial & Arquiteto de Soluções. 
 🚀 Criador de soluções que combinam código, automação e inteligência.  
 🛠️ Especializado em arquitetura de sistemas inteligentes, pipelines com LLMs e integração de ferramentas de IA na produtividade dev.
 
@@ -13,8 +13,8 @@
 
 ## 🚀 O que eu faço?
 
-- 🔧 **Criação de fluxos inteligentes com LLMs (OpenAI, Hugging Face, Trae AI, Lovable AI)**
-- 🤖 **Desenvolvimento de Agentes IA personalizados para codificação e DevOps**
+- 🔧 **Criação de fluxos inteligentes com LLMs (ChatGPT,DeepSeek, Hugging Face, Trae AI, Lovable AI)**
+- 🤖 **Desenvolvimento de Agentes de IA personalizados para codificação e DevOps**
 - 💡 **Aplicações Web Fullstack com IA nativa: IA-first Design**
 - 🧩 **Integração de IA em IDEs e Workflows: Copilot, Codeium, Tabnine**
 - 🧠 **Treinamento, ajuste fino e deploy de modelos via MLOps**
