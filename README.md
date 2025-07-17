@@ -5,7 +5,7 @@
 
 ## 🧠 Sobre mim
 
-🎓 Engenheiro de Inteligência Artificial & Arquiteto de Sistemas LLMs.  
+🎓 Engenheiro de Inteligência Artificial & Arquiteto de Sistemas com LLMs.  
 🚀 Apaixonado por aumentar a produtividade de desenvolvedores com agentes inteligentes e automação.  
 💻 Faço o elo entre código limpo, IDEs inteligentes e pipelines de IA para times mais ágeis.
 
