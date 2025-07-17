@@ -23,7 +23,7 @@
 
 ## 💻 Ferramentas de IA para Codificação
 
-![❤️ Lovable AI](https://img.shields.io/badge/Lovable_AI-FFB3C1?style=flat-square&logo=love&logoColor=black)
+![ Lovable AI](https://img.shields.io/badge/Lovable_AI-FFB3C1?style=flat-square&logo=❤️&logoColor=black)
 ![🤖 Trae AI](https://img.shields.io/badge/Trae_AI-FFDB58?style=flat-square&logo=android&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Codeium](https://img.shields.io/badge/Codeium-3B82F6?style=flat-square&logo=code&logoColor=white)
