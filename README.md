@@ -7,7 +7,7 @@
 
 🎓 Engenheiro de Inteligência Artificial & Arquiteto de Sistemas com LLMs  
 🚀 Criador de soluções que combinam código, automação e modelos inteligentes  
-🛠️ Especializado em arquitetura de sistemas inteligentes, pipelines com LLMs e integração de ferramentas de IA na produtividade dev  
+🛠️ Especializado em arquitetura de sistemas inteligentes, pipelines com LLMs e integração de ferramentas de IA na produtividade dev
 
 ---
 
@@ -26,24 +26,18 @@
 Atualmente me aprimorando em:
 
 - 🐍 **Python avançado para IA**
-- 🔬 **Machine Learning & Deep Learning**
-  - Keras, TensorFlow, PyTorch, Scikit-Learn, SciPy, H2O.ai
-- 🤗 **Modelos & Frameworks**
-  - Hugging Face, LangChain, OpenAI GPT, Whisper, Google Gemini, DeepSeek
-- 🧩 **Data Science & ML Ops**
-  - Pandas, pipelines, ajuste fino, deploy e monitoramento de modelos
+- 🔬 **Machine Learning & Deep Learning**  
+  Keras, TensorFlow, PyTorch, Scikit-Learn, SciPy, H2O.ai
+- 🤗 **Modelos & Frameworks**  
+  Hugging Face, LangChain, OpenAI GPT, Whisper, Google Gemini, DeepSeek
+- 🧩 **Data Science & ML Ops**  
+  Pandas, NumPy, pipelines, ajuste fino, deploy e monitoramento de modelos
 
 ---
 
 ## 💻 Ferramentas de IA para Codificação
 
-![Lovable AI](https://img.shields.io/badge/Lovable_AI-FFB3C1?style=flat-square&logo=love&logoColor=black)
-![Trae AI](https://img.shields.io/badge/Trae_AI-FFDB58?style=flat-square&logo=brain&logoColor=black)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=github&logoColor=white)
-![Codeium](https://img.shields.io/badge/Codeium-3B82F6?style=flat-square&logo=code&logoColor=white)
-![Tabnine](https://img.shields.io/badge/Tabnine-6C33FF?style=flat-square&logo=tabnine&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink)
+- Lovable AI • Trae AI • GitHub Copilot • Codeium • Tabnine • ChatGPT • LangChain
 
 🧠 Uso essas ferramentas para acelerar tarefas, gerar código eficiente, revisar lógica, documentar e automatizar fluxos.
 
@@ -53,23 +47,35 @@ Atualmente me aprimorando em:
 
 ### 🌐 Fullstack + Cloud
 
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+- Next.js • React • TailwindCSS • Supabase • Vercel
 
 ### ⚙️ Backend & IA
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![Hugging Face](https://img.shields.io/badge/-Hugging_Face-F9A03C?style=flat-square&logo=huggingface)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai)
-![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square&logo=chainlink)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch)
+- Python • FastAPI • Flask • Docker • Hugging Face • OpenAI • LangChain • TensorFlow • PyTorch
+
+---
+
+## 🧠 Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-F9A03C?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=mariadb&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-4AE1C1?style=for-the-badge&logo=whisper&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-A020F0?style=for-the-badge&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
@@ -92,7 +98,7 @@ Atualmente me aprimorando em:
 
 ## 📊 GitHub Stats
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=devnaut-coder&show_icons=true&theme=tokyonight)
+![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=devnaut-coder&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnaut-coder&layout=compact&theme=tokyonight)
 
 ---
