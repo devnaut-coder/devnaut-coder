@@ -1,106 +1,74 @@
 <!-- Banner animado -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FACC&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Dev+Productivity+via+LLMs+%7C+Fullstack+Developer+%7C+Open+Source+Lover" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FACC&center=true&vCenter=true&width=800&lines=Desenvolvedor+Fullstack+Python+%2B+IA;Projetos+Práticos+e+Aprendizado+Contínuo" alt="Typing SVG" />
 
-# 👋 Seja bem-vindo ao meu universo Dev + IA!
+# 👋 Olá, eu sou o Carlos — Desenvolvedor Fullstack Python & IA
 
-## 🧠 Sobre mim
-
-🎓 Engenheiro de Inteligência Artificial & Arquiteto de Sistemas com LLMs  
-🚀 Criador de soluções que combinam código, automação e modelos inteligentes  
-🛠️ Especializado em arquitetura de sistemas inteligentes, pipelines com LLMs e integração de ferramentas de IA na produtividade dev
+Sou um desenvolvedor em constante evolução, combinando **desenvolvimento Fullstack** com especialização em **Python e Inteligência Artificial**.  
+Atualmente, dedico-me a cursos e projetos práticos que unem **IA Generativa**, **Desenvolvimento Web** e **Integração de APIs**, sempre focando em criar soluções funcionais e inovadoras.
 
 ---
 
-## 🚀 O que eu faço?
+## 🚀 Habilidades em Desenvolvimento
 
-- 🔧 *Criação de fluxos inteligentes com LLMs (ChatGPT, DeepSeek, Hugging Face, Gemini, Trae AI, Lovable AI)*
-- 🤖 *Desenvolvimento de Agentes de IA personalizados para codificação, DevOps e automação*
-- 💡 *Aplicações Web Fullstack com IA nativa: IA-first Design*
-- 🧩 *Integração de IA em IDEs e Workflows: Copilot, Codeium, Tabnine*
-- 🧠 *Treinamento, ajuste fino e deploy de modelos via MLOps*
-
----
-
-## 📚 Habilidades em evolução
-
-Atualmente me aprimorando em:
-
-- 🐍 **Python avançado para IA**
-- 🔬 **Machine Learning & Deep Learning**  
-  Keras, TensorFlow, PyTorch, Scikit-Learn, SciPy, H2O.ai
-- 🤗 **Modelos & Frameworks**  
-  Hugging Face, LangChain, OpenAI GPT, Whisper, Google Gemini, DeepSeek
-- 🧩 **Data Science & ML Ops**  
-  Pandas, NumPy, pipelines, ajuste fino, deploy e monitoramento de modelos
-
----
-
-## 💻 Ferramentas de IA para Codificação
-
-- Lovable AI • Trae AI • GitHub Copilot • Codeium • Tabnine • ChatGPT • LangChain
-
-🧠 Uso essas ferramentas para acelerar tarefas, gerar código eficiente, revisar lógica, documentar e automatizar fluxos.
-
----
-
-## 🔧 Tech Stack
-
-### 🌐 Fullstack + Cloud
-
-- Next.js • React • TailwindCSS • Supabase • Vercel
-
-### ⚙️ Backend & IA
-
-- Python • FastAPI • Flask • Docker • Hugging Face • OpenAI • LangChain • TensorFlow • PyTorch
-
----
-
-## 🧠 Skills
-
+### 💻 Linguagens & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-F9A03C?style=for-the-badge&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=mariadb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### 🧠 Inteligência Artificial & Data Science
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-4AE1C1?style=for-the-badge&logo=whisper&logoColor=black)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-A020F0?style=for-the-badge&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🛠 Ferramentas & Versionamento
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## 🧪 Explorando e criando
+## 📚 Formação Atual
 
-- 🤖 Agentes IA para DevOps, Code Review e suporte técnico
-- 🔗 Integração de Supabase com pipelines LLMs
-- 📊 Modelos personalizados para análise de dados e geração de insights
-- 🛠️ Ferramentas no-code/low-code com IA nativa
+Atualmente estou cursando e aplicando na prática:
 
----
-
-## 🌐 Onde me encontrar?
-
-[![Instagram](https://img.shields.io/badge/@seu_usuario-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario)  
-[![WhatsApp](https://img.shields.io/badge/Chamar_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://call.whatsapp.com/voice/+5527999990362)  
-[![Linktree](https://img.shields.io/badge/Meus_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/devnautcoder)
+- **Aprenda Python do Zero Criando 10 Projetos de IA Generativa** — *Fundamentos de Python, integração com OpenAI, Streamlit e automações IA.*  
+- **Curso de ReactJS e Next.js Completo** — *Desenvolvimento frontend moderno e SSR.*  
+- **Formação Front-end com HTML, CSS, JavaScript e React** — *Bases sólidas para aplicações web responsivas.*  
+- **LangChain e Agentes de IA** — *Desenvolvimento de assistentes e aplicações conversacionais avançadas.*  
+- **Processamento de Linguagem Natural (NLP)** — *Análise e compreensão de texto em larga escala.*  
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Projetos em Destaque
 
-![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=devnaut-coder&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnaut-coder&layout=compact&theme=tokyonight)
+| Projeto | Tecnologias | Descrição |
+|---------|-------------|-----------|
+| **Assistente IA com Streamlit** | Python, OpenAI API, Streamlit | Chatbot com memória de contexto e interface amigável. |
+| **ChatPDF com RAG** | LangChain, Python, HuggingFace | Consulta inteligente de PDFs com busca semântica. |
+| **Dashboard de Dados** | Python, Pandas, Plotly | Visualização de dados com gráficos interativos. |
+| **Landing Page Moderna** | React, Next.js, TailwindCSS | Página responsiva otimizada para SEO e performance. |
+| **E-commerce Simples** | JavaScript, Node.js, MongoDB | Loja virtual com carrinho e sistema de pedidos. |
 
 ---
 
-> 🧩 *“IA não vai substituir você. Mas um dev usando IA... pode.”*
+## 📈 Objetivo Profissional
+
+Atuar como **Desenvolvedor Fullstack Python com foco em Inteligência Artificial**, criando soluções que unam **backend robusto**, **frontend dinâmico** e **IA integrada** para resolver problemas reais.
+
+---
+
+📫 **Entre em contato comigo:**
+- GitHub: [github.com/seuusuario](https://github.com/seuusuario)
+- LinkedIn: [linkedin.com/in/seulinkedin](https://linkedin.com/in/seulinkedin)
+- E-mail: seuemail@example.com
