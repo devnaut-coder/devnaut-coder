@@ -1,5 +1,5 @@
 <!-- Banner animado -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FACC&center=true&vCenter=true&width=800&lines=Desenvolvedor+Fullstack+Python+%2B+IA;Especialista+em+Machine+Learning+e+Deep+Learning;Aprendizado+Contínuo+e+Projetos+Inovadores" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FACC&center=true&vCenter=true&width=800&lines=Desenvolvedor+Fullstack+Python+%2B+IA;Especialista+em+Machine+Learning+e+Deep+Learning;Aprendizado+Contínuo+e+Projetos+Inovadores" alt="Typing SVG" />
 
 # 👋 Olá, eu sou Carlos - Desenvolvedor Fullstack Python & IA
 
