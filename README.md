@@ -1,7 +1,7 @@
 <!-- Banner animado -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FACC&center=true&vCenter=true&width=800&lines=Desenvolvedor+Fullstack+Python+%2B+IA;Especialista+em+Machine+Learning+e+Deep+Learning;Aprendizado+Contínuo+e+Projetos+Inovadores" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FACC&center=true&vCenter=true&width=800&lines=Desenvolvedor+Fullstack+Python+%2B+IA;Especialista+em+Machine+Learning+e+Deep+Learning;Aprendizado+Contínuo+e+Projetos+Inovadores" alt="Typing SVG" />
 
-# 👋 Olá, eu sou Carlos Magno - Desenvolvedor Fullstack Python & IA
+# 👋 Olá, eu sou [Seu Nome] - Desenvolvedor Fullstack Python & IA
 
 Sou um desenvolvedor apaixonado por tecnologia, com foco em **Python, Inteligência Artificial e Desenvolvimento Web Fullstack**. Minha jornada combina **sólidos conhecimentos em Machine Learning, Deep Learning e NLP** com habilidades em **React, Next.js e desenvolvimento de interfaces modernas**.
 
@@ -74,8 +74,8 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em **Python, Inteligên
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?devnaut-coder=seuuser&show_icons=true&theme=radical&hide_border=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?devnaut-code=seuuser&layout=compact&theme=radical&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devnaut-coder&show_icons=true&theme=radical&hide_border=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnaut-coder&layout=compact&theme=radical&hide_border=true">
 </div>
 
 ## 🎯 Objetivo Profissional
