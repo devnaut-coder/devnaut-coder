@@ -1,7 +1,7 @@
 <!-- Banner animado -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FACC&center=true&vCenter=true&width=800&lines=Desenvolvedor+Fullstack+Python+%2B+IA;Especialista+em+Machine+Learning+e+Deep+Learning;Aprendizado+Contínuo+e+Projetos+Inovadores" alt="Typing SVG" />
 
-# 👋 Olá, eu sou [Seu Nome] - Desenvolvedor Fullstack Python & IA
+# 👋 Olá, eu sou Carlos Magno - Desenvolvedor Fullstack Python & IA
 
 Sou um desenvolvedor apaixonado por tecnologia, com foco em **Python, Inteligência Artificial e Desenvolvimento Web Fullstack**. Minha jornada combina **sólidos conhecimentos em Machine Learning, Deep Learning e NLP** com habilidades em **React, Next.js e desenvolvimento de interfaces modernas**.
 
